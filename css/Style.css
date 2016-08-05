@@ -140,7 +140,7 @@ li:hover .submenu {
 .fon {
     width: 1000px; /* ширина трех блоков */
     float: left; /* чтобы не добавлять div с style="clear:both;" (не всегда уместно это применять) */
-    background: url('../img/fon1.jpg') repeat-y; /* фоновая картинка. повторяется по вертикали */
+    background: url('../img/fon3.jpg') repeat-y; /* фоновая картинка. повторяется по вертикали */
     line-height: 24px;
 }
 
