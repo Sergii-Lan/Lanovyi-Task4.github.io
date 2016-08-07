@@ -12,7 +12,7 @@ body {
 
 .main-block {
     width: 1000px;
-    margin: 0 auto 30px;
+    margin: 0 auto 10px;
     padding: 0;
     background: #fff;
     font-family: 'Open Sans', sans-serif;
@@ -173,8 +173,8 @@ li span {
 }
 
 footer {
-    /*margin-top: -23px;*/
     color: #fff;
     font-size: 13px;
     text-align: center;
 }
+
