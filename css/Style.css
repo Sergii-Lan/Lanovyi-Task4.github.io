@@ -1,5 +1,5 @@
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -14,14 +14,14 @@ body {
     width: 1000px;
     margin: 0 auto 30px;
     padding: 0;
-    border-bottom: 2px solid #000;
     background: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
+    box-shadow: 0 4px 3px #000;
 }
 
-.header {
-    /*height: 175px;*/
+h1 {
+    font-size: 12px;
 }
 
 .photo {
@@ -70,7 +70,7 @@ body {
 
 .country {
     display: block;
-    margin-right: 30px;
+    margin-right: 33px;
     padding-top: 30px;
     float: right;
 }
@@ -85,12 +85,13 @@ body {
 
 .country li img {
     padding: 0 5px;
+    text-align: center;
 }
 
 .country li a {
     margin-top: -5px;
     color: #71aeaf;
-    font-size: 10px;
+    font-size: 9px;
     text-align: center;
 }
 
