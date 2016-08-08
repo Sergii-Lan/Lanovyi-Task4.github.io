@@ -96,9 +96,11 @@ h1 {
 
 .menu {
     display: block;
-    /*margin-top: -4px;*/
+    position: relative;
+    width: 1000px;
     background: #323232;
     color: #fff;
+    box-shadow: 0 3px 2px #323232;
 }
 
 .menu ul {
